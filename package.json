@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/rheimon1/clean-cache-control/issues"
   },
-  "homepage": "https://github.com/rheimon1/clean-cache-control#readme"
+  "homepage": "https://github.com/rheimon1/clean-cache-control#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.13",
+    "typescript": "^4.1.3"
+  }
 }
