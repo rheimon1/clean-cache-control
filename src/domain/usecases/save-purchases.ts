@@ -1,5 +1,3 @@
-import { type } from "os";
-
 export interface SavePurchases {
     save: (purchases: Array<SavePurchases.Params>) => Promise<void>
 }
